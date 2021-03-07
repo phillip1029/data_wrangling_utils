@@ -1,5 +1,5 @@
 ## my collection of some useful data wrangling helper functions
 
-#### Datetime helper functions
+1. Datetime helper functions
 
-#### String helper functions
+2. String helper functions
